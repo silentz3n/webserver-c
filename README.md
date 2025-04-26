@@ -45,6 +45,7 @@ Received message: GET / HTTP/1.1
 
 In the browser, you will see a simple HTML page with the following content:
 
+```html 
 <html>
 <head><title>Webserver C</title></head>
 <body>
@@ -52,6 +53,7 @@ In the browser, you will see a simple HTML page with the following content:
     <p>This is a page created with C</p>
 </body>
 </html>
+``` 
 
 # Notes
 
